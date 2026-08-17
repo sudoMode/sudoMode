@@ -1,8 +1,3 @@
-<img>
-
-## Hi there 👾
-
-
 <!--
 **sudoMode/sudoMode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="./assets/cover.png" align="center" width="100%" alt="cover-bg">
+
+<br>
+
+<h1>Mandeep Singh</h1>
+
+<h5>Hello World!</h5>
+<p>I think, I write and I procastinate till re-write the whole thing again 👾</p>
+
+<br>
+<img src="./assets/footer.png" width="100%" alt="footer-bg"><br>
