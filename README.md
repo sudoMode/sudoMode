@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 <img src="./assets/cover.png" align="center" width="100%" alt="cover-bg">
 
-<br>
-
-<!-- <h1>Mandeep Singh</h1> -->
-
 <h3>Hello World!</h3>
 <h1></h1>
 
