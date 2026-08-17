@@ -1,26 +1,25 @@
-<!--
-**sudoMode/sudoMode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Main Wrap Structure to pull the content up seamlessly -->
+<div align="center">
+  <!-- 1. The Cover Banner (Removes excessive bottom spacing) -->
+  <img src="./assets/cover.png" width="100%" style="display: block; margin-bottom: 0;">
+</div>
 
-Here are some ideas to get you started:
+<h2>Hello World! 👾</h2>
+<p><i>"If there's a future, it is now."</i></p>
+<!-- 2. The Horizontal Layout Block (Splits Quote and Image Side-by-Side) -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin-top: 0;">
+  <tr>
+    <!-- Left Column: Hello World & The Quote -->
+    <td width="70%" valign="middle" style="border: none; padding-right: 20px;">
+      <!-- <p>Observe • Analyse • Understand • Build</p> -->
+    </td>
+    <td width="30%" valign="middle" align="right" style="border: none;">
+      <img src="./assets/i1.jpeg" width="180" alt="Profile Graphic" style="border-radius: 8px;">
+    </td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="./assets/cover.png" align="center" width="100%" alt="cover-bg">
-
-<h3>Hello World!</h3>
-<h1></h1>
-
-<br>
-<i>If there's a future, it is now.</i>
-<br>
-
-<img src="./assets/footer.png" width="100%" alt="footer-bg">
-<br>
+  </tr>
+</table>
+<div align="center">
+  <!-- 1. The Cover Banner (Removes excessive bottom spacing) -->
+  <img src="./assets/footer.png" width="100%" style="display: block; margin-bottom: 0;">
+</div>
