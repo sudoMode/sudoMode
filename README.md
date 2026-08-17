@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 
 <br>
 
-<h1>Mandeep Singh</h1>
+<!-- <h1>Mandeep Singh</h1> -->
 
-<h5>Hello World!</h5>
-<p>I think, I write and I procastinate till re-write the whole thing again 👾</p>
+<h3>Hello World!</h3>
+<h1></h1>
 
 <br>
-<img src="./assets/footer.png" width="100%" alt="footer-bg"><br>
+[!TIP]
+<i>If there's a future, it is now.</i>
+<br>
+<img src="./assets/footer.png" width="100%" alt="footer-bg">
+<br>
