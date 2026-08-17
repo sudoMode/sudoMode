@@ -9,10 +9,10 @@
     </table>
     <table width="100%">
         <tr>
-            <td width="50%" valign="middle" align="left">
+            <td width="25%" valign="middle" align="left">
             <i>If there's a future, it is now.</i>
             </td>
-            <td width="50%">
+            <td width="75%">
             <img src="./assets/i1.jpeg" width="100%">
             </td>
   </tr>
