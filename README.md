@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <h1></h1>
 
 <br>
-[!TIP]
 <i>If there's a future, it is now.</i>
 <br>
 <img src="./assets/footer.png" width="100%" alt="footer-bg">
