@@ -3,9 +3,20 @@
   <img src="./assets/cover.png" width="100%" style="display: block; margin-bottom: 0;">
 </div>
 <br>
-<div style="align: center; width: 100%">
-<h1>Hello World! 👾</h1>
-<p><i>"If there's a future, it is now."</i></p>
+<div align="left" width="100%;">
+    <table>
+        <tr><td><h1>Hello World! 👾</h1></td></tr>
+    </table>
+    <table width="100%">
+        <tr>
+            <td width="50%" valign="middle" align="left">
+            <i>If there's a future, it is now.</i>
+            </td>
+            <td width="50%">
+            <img src="./assets/i1.jpeg" width="100%">
+            </td>
+  </tr>
+</table>
 </div>
 <br>
 <img src="./assets/footer.png" width="100%" style="display: block; margin-bottom: 0;">
