@@ -56,7 +56,7 @@
 
 > [!CAUTION]
 > **Red Background:** Good for fun "do not click" links or strong warnings. -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
   </a>
@@ -78,4 +78,4 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=d9115e&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
   </a>
-</p>
+</p> -->
