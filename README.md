@@ -177,8 +177,12 @@
   </svg>
 </p>
 
-<p align="right">
+<!-- <p align="right">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank">
     <img src="./assets/spotify-card.svg" alt="Now Listening" width="380" />
   </a>
+</p> -->
+
+<p align="right">
+  <iframe src="./assets/spotify-card.svg" width="385" height="140" frameborder="0" scrolling="no"></iframe>
 </p>
