@@ -3,8 +3,9 @@
 <!-- Main Wrap Structure to pull the content up seamlessly -->
 <div align="center">
   <img
-    src="./assets/t1.jpg"
+    src="./assets/pacman-glitchy.jpeg"
     width="33%"
+    height="33%"
     style="display: block; margin-bottom: 40px"
     align="left"
   />
@@ -21,7 +22,7 @@
         <i style="color: #666">If there's a future, it is now.</i>
       </td>
       <td width="75%">
-        <img src="./assets/i1.jpeg" width="100%" />
+        <img src="./assets/god-1.jpeg" width="100%" />
       </td>
     </tr>
   </table>
