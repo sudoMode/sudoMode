@@ -58,35 +58,37 @@
 
 ---
 
-<!-- random -->
-<p align="center">
-  <svg width="400" height="80" viewBox="0 0 400 80" fill="none" xmlns="http://w3.org">
-    <!-- This rect handles the background color -->
-    <!-- <rect width="400" height="80" rx="10" fill="#6e5494"/> -->
-    <!-- This text sits on top of the background -->
-    <!-- <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Segoe UI, sans-serif" font-size="20" font-weight="bold"> -->
-      <!-- Hi, I am a Full Stack Developer! -->
+<!-- citrcles -->
+<svg width="100" height="100" xmlns="http://w3.org">
+  <!-- cx/cy is center point (half of size), r is radius -->
+  <circle cx="50" cy="50" r="45" fill="#7f00ff" />
+</svg>
+
+<!-- custom gardient -->
+<!-- <p align="center">
+  <svg width="600" height="150" xmlns="http://w3.org">
+    <defs>
+      <linearGradient id="myCustomGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ff007f" />
+        <stop offset="100%" stop-color="#7f00ff" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" rx="15" fill="url(#myCustomGradient)" />
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="sans-serif" font-size="24">
+      Gradient Background Text
     </text>
   </svg>
-</p>
-
-<!-- message -->
-<!-- <p align="center">
-  TEST TEXT
-  <img src="./assets/footer.png" alt="Header Background" text="TEST TEXT"/>
-  TEST TEXT
 </p> -->
 
-<!-- music -->
-<!-- <div align="right">
-  <div>
-    Listening to
-  </div>
-  <div align="right">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&border_radius=1000">
-    </a>
-  </div>
+<!-- text overlay -->
+<!-- <div align="center">
+  <svg width="600" height="150" xmlns="http://w3.org">
+    <rect width="100%" height="100%" rx="15" fill="#f77321" />
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="24" font-weight="bold">
+      YOUR OVERLAY TEXT HERE
+    </text>
+
+  </svg>
 </div> -->
 
 <!-- music -->
