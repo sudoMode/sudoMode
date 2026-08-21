@@ -1,4 +1,13 @@
 <!-- header -->
+<div
+  style="
+    width: 100%;
+    height 150px;
+    background-color: maroon;
+">
+  Header
+</div>
+
 <div style="width: 200px; height: 150px; overflow: hidden;">
   <img
     src="./assets/pacman-glitchy.jpeg"
