@@ -62,23 +62,23 @@
 <p align="center">
   <svg width="400" height="80" viewBox="0 0 400 80" fill="none" xmlns="http://w3.org">
     <!-- This rect handles the background color -->
-    <rect width="400" height="80" rx="10" fill="#6e5494"/>
+    <!-- <rect width="400" height="80" rx="10" fill="#6e5494"/> -->
     <!-- This text sits on top of the background -->
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Segoe UI, sans-serif" font-size="20" font-weight="bold">
-      Hi, I am a Full Stack Developer!
+    <!-- <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Segoe UI, sans-serif" font-size="20" font-weight="bold"> -->
+      <!-- Hi, I am a Full Stack Developer! -->
     </text>
   </svg>
 </p>
 
 <!-- message -->
-<p align="center">
+<!-- <p align="center">
   TEST TEXT
   <img src="./assets/footer.png" alt="Header Background" text="TEST TEXT"/>
   TEST TEXT
-</p>
+</p> -->
 
 <!-- music -->
-<div align="right">
+<!-- <div align="right">
   <div>
     Listening to
   </div>
@@ -87,4 +87,18 @@
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&border_radius=1000">
     </a>
   </div>
-</div>
+</div> -->
+
+<!-- music -->
+<table border="0" align="right">
+  <tr>
+    <td valign="bottom">
+      <strong color="#17bc72">Now Listening...</strong>
+    </td>
+    <td valign="bottom">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&border_radius=1000">
+    </a>
+    </td>
+  </tr>
+</table>
