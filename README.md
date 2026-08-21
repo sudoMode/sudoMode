@@ -42,7 +42,7 @@
 
 <!-- roughwork -->
 
-> [!NOTE]
+<!-- > [!NOTE]
 > **Blue Background:** Use this for helpful tips or general information.
 
 > [!TIP]
@@ -55,4 +55,4 @@
 > **Yellow Background:** Use this to show things you are currently fixing or learning.
 
 > [!CAUTION]
-> **Red Background:** Good for fun "do not click" links or strong warnings.
+> **Red Background:** Good for fun "do not click" links or strong warnings. -->
