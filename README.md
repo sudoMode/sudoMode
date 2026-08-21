@@ -54,8 +54,30 @@
 > [!CAUTION]
 > **Red Background:** Good for fun "do not click" links or strong warnings. -->
 
-## <!-- footer -->
+<!-- footer -->
 
+---
+
+<!-- random -->
+<p align="center">
+  <svg width="400" height="80" viewBox="0 0 400 80" fill="none" xmlns="http://w3.org">
+    <!-- This rect handles the background color -->
+    <rect width="400" height="80" rx="10" fill="#6e5494"/>
+    <!-- This text sits on top of the background -->
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Segoe UI, sans-serif" font-size="20" font-weight="bold">
+      Hi, I am a Full Stack Developer!
+    </text>
+  </svg>
+</p>
+
+<!-- message -->
+<p align="center">
+  TEST TEXT
+  <img src="./assets/footer.png" alt="Header Background" text="TEST TEXT"/>
+  TEST TEXT
+</p>
+
+<!-- music -->
 <div align="right">
   <div>
     Listening to
