@@ -1,21 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<!-- Main Wrap Structure to pull the content up seamlessly -->
-<div align="center">
-  <img
-    src="./assets/pacman-glitchy.jpeg"
-    width="33%"
-    height="33%"
-    style="display: block; margin-bottom: 40px"
-    align="left"
-  />
+<!-- header -->
+<div>
+  <img src="./assets/pacman-glitchy.jpeg" />
 </div>
 <br />
+<br />
+<br />
+<br />
+<br />
 
+<!-- content -->
 <div align="left" width="100%;">
-  <!-- <table>
-        <tr><td><h1>Hello World! 👾</h1></td></tr>
-    </table> -->
   <table width="100%">
     <tr>
       <td width="25%" valign="middle" align="left">
@@ -29,6 +23,7 @@
 </div>
 <br />
 
+<!-- footer -->
 <div>
   <img
     src="./assets/footer.png"
