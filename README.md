@@ -39,3 +39,20 @@
     style="display: block; margin-bottom: 0"
   />
 </div> -->
+
+<!-- roughwork -->
+
+> [!NOTE]
+> **Blue Background:** Use this for helpful tips or general information.
+
+> [!TIP]
+> **Green Background:** Perfect for showing things you have successfully built.
+
+> [!IMPORTANT]
+> **Purple Background:** Great for drawing attention to your key pinned projects.
+
+> [!WARNING]
+> **Yellow Background:** Use this to show things you are currently fixing or learning.
+
+> [!CAUTION]
+> **Red Background:** Good for fun "do not click" links or strong warnings.
