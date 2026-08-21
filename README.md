@@ -138,14 +138,8 @@
 <!-- music -->
 <p align="right">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank" align="right">
-    <svg width="350" height="22" xmlns="http://w3.org" style="display: block; margin-bottom: 4px;">
-      <text x="350" y="15" text-anchor="end" fill="#1db954" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="0.5">
-        Now Listening...
-      </text>
-    </svg>
+    Now Listening...
   </a>
 </p>
 
-<p align="right">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening on Spotify" width="350" />
-</p>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening on Spotify" width="350" align="right"/>
