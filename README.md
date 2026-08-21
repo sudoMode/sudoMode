@@ -1,15 +1,14 @@
 <!-- header -->
-<div>
-  <img src="./assets/pacman-glitchy.jpeg" />
+<div style="width: 200px; height: 150px; overflow: hidden;">
+  <img
+    src="./assets/pacman-glitchy.jpeg"
+    style="width: 400px; height: 300px; margin: -75px 0 0 -100px;"
+/>
+
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <!-- content -->
-<div align="left" width="100%;">
+<!-- <div align="left" width="100%;">
   <table width="100%">
     <tr>
       <td width="25%" valign="middle" align="left">
@@ -21,13 +20,13 @@
     </tr>
   </table>
 </div>
-<br />
+<br /> -->
 
 <!-- footer -->
-<div>
+<!-- <div>
   <img
     src="./assets/footer.png"
     width="100%"
     style="display: block; margin-bottom: 0"
   />
-</div>
+</div> -->
