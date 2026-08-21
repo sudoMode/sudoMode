@@ -1,14 +1,9 @@
 <!-- header -->
-<!-- <div
-  style="
-    width: 100%;
-    height 150px;
-    background-color: maroon;
-">
-  Header
+<div>
+  Man eats man!
 </div>
 
-<div style="width: 200px; height: 150px; overflow: hidden;">
+<!-- <div style="width: 200px; height: 150px; overflow: hidden;">
   <img
     src="./assets/pacman-glitchy.jpeg"
     style="width: 400px; height: 300px; margin: -75px 0 0 -100px;"
@@ -16,8 +11,10 @@
 
 </div> -->
 
+---
+
 <!-- content -->
-<!-- <div align="left" width="100%;">
+<div align="left" width="100%;">
   <table width="100%">
     <tr>
       <td width="25%" valign="middle" align="left">
@@ -29,7 +26,7 @@
     </tr>
   </table>
 </div>
-<br /> -->
+<br />
 
 <!-- footer -->
 <!-- <div>
@@ -56,8 +53,16 @@
 
 > [!CAUTION]
 > **Red Background:** Good for fun "do not click" links or strong warnings. -->
-<div style="align: left; width: 100%; height: 100vh;">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&border_radius=1000">
-  </a>
+
+## <!-- footer -->
+
+<div align="right">
+  <div>
+    Listening to
+  </div>
+  <div align="right">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&border_radius=1000">
+    </a>
+  </div>
 </div>
