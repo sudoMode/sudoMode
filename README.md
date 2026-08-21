@@ -136,46 +136,6 @@
 </div> -->
 
 <!-- music -->
-<table border="0" align="right">
-  <tr>
-    <td valign="bottom">
-      <strong color="#17bc72">Now Listening...</strong>
-    </td>
-    <td valign="bottom">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true">
-    </a>
-    </td>
-  </tr>
-</table>
-
-<p align="right">
-  <svg width="400" height="200" xmlns="http://w3.org" xmlns:xlink="http://w3.org">
-    <defs>
-      <!-- Modern dark Spotify-themed radial gradient -->
-      <radialGradient id="spotifyDarkGrad" cx="85%" cy="15%" r="80%">
-        <stop offset="0%" stop-color="#1db954" stop-opacity="0.15" />
-        <stop offset="60%" stop-color="#121212" />
-        <stop offset="100%" stop-color="#050505" />
-      </radialGradient>
-    </defs>
-    <!-- Card Base Layer -->
-    <rect width="100%" height="100%" rx="16" fill="url(#spotifyDarkGrad)" stroke="#282828" stroke-width="1.5" />
-    <!-- Static Decorative Micro Spotify Icon (Top Left Accent) -->
-    <g transform="translate(18, 16) scale(0.7)">
-      <circle cx="12" cy="12" r="12" fill="#1db954"/>
-      <path d="M17.6 15.6c-.2.3-.6.4-.9.2-2.3-1.4-5.3-1.8-8.8-.9-.4.1-.7-.1-.8-.5-.1-.4.1-.7.5-.8 3.8-1 7.2-.6 9.8 1 .3.1.4.6.2.9zm1.2-2.9c-.3.4-.8.5-1.1.3-2.7-1.6-6.8-2.1-9.9-1.2-.5.1-.9-.2-1-.7-.1-.5.2-.9.7-1 3.6-1.1 8.2-.6 11.3 1.3.3.2.5.8.3 1.1zm.1-3c-3.2-1.9-8.5-2.1-11.6-1.1-.5.1-1-.1-1.2-.6-.1-.5.1-1 .6-1.2 3.6-1.1 9.4-.9 13.1 1.3.4.3.6.8.3 1.2-.2.4-.8.6-1.2.4z" fill="#121212"/>
-    </g>
-    <!-- Header Title Text -->
-    <text x="42" y="32" fill="#b3b3b3" font-family="'Segoe UI', Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="0.5">Now Listening...</text>
-    <!-- Safe Dynamic Tracker Image Layer (No ForeignObject!) -->
-    <image x="16" y="48" width="300" height="100" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" />
-    <!-- Transparent Clickable Link Overlay for Anonymity -->
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank">
-      <rect x="0" y="0" width="380" height="135" fill="transparent" />
-    </a>
-  </svg>
-</p>
 
 <p align="right">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank" style="text-decoration: none;">
