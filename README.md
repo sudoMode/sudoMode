@@ -176,3 +176,14 @@
     </a>
   </svg>
 </p>
+
+<p align="right">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank" style="text-decoration: none;">
+    <!-- 1. The custom "Now Listening..." title colored in Spotify green -->
+    <span style="display: block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; color: #1db954; margin-bottom: 8px; letter-spacing: 0.5px;">
+      Now Listening...
+    </span>
+    <!-- 2. The direct live widget stream -->
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening on Spotify" width="350" style="border-radius: 12px; display: block;" />
+  </a>
+</p>
