@@ -125,7 +125,7 @@
 </p> -->
 
 <!-- text overlay -->
-<div align="center">
+<!-- <div align="center">
   <svg width="600" height="150" xmlns="http://w3.org">
     <rect width="100%" height="100%" rx="15" fill="#f77321" />
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="24" font-weight="bold">
@@ -133,7 +133,7 @@
     </text>
 
   </svg>
-</div>
+</div> -->
 
 <!-- music -->
 <p align="right">
