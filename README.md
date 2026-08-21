@@ -59,31 +59,26 @@
 ---
 
 <!-- citrcles -->
-<svg width="200" height="200" xmlns="http://w3.org" style="background-color: #222222;">
-  <!-- cx/cy is center point (half of size), r is radius -->
+<!-- <svg width="200" height="200" xmlns="http://w3.org" style="background-color: #222222;">
   <circle cx="100" cy="100" r="50" fill="#7f00ff" />
-</svg>
+</svg> -->
 
-<p align="center">
+<!-- <p align="center">
   <svg width="150" height="150" xmlns="http://w3.org">
     <defs>
-      <!-- 1. The Gradient Definition -->
       <linearGradient id="circleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stop-color="#ff007f" />
         <stop offset="100%" stop-color="#7f00ff" />
       </linearGradient>
     </defs>
-    <!-- 2. The Circle (Centered at 75,75 with a radius of 70) -->
     <circle cx="75" cy="75" r="70" fill="url(#circleGradient)" />
-    <!-- 3. The Text Overlay (Centered perfectly using dominant-baseline and text-anchor) -->
     <text x="50%" y="53%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="18" font-weight="bold">
       HI!
     </text>
-
   </svg>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <svg width="150" height="150" xmlns="http://w3.org">
     <defs>
       <linearGradient id="circleBg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -91,32 +86,27 @@
         <stop offset="100%" stop-color="#222230" />
       </linearGradient>
     </defs>
-    <!-- Dark Background Circle -->
     <circle cx="75" cy="75" r="70" fill="url(#circleBg)" />
-    <!-- Change fill="#ff007f" to change the text color -->
     <text x="50%" y="53%" dominant-baseline="middle" text-anchor="middle" fill="#ff007f" font-family="Segoe UI, sans-serif" font-size="22" font-weight="bold">
       HELLO
     </text>
   </svg>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <svg width="150" height="150" xmlns="http://w3.org">
     <defs>
-      <!-- Define the gradient for the text -->
       <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00c6ff" />
+        <stop offset="0%" stop-color="#c28530" />
         <stop offset="100%" stop-color="#0072ff" />
       </linearGradient>
     </defs>
-    <!-- Dark solid background circle so the text gradient pops -->
     <circle cx="75" cy="75" r="70" fill="#1a1a24" />
-    <!-- Link the fill attribute to the textGradient ID -->
     <text x="50%" y="53%" dominant-baseline="middle" text-anchor="middle" fill="url(#textGradient)" font-family="Segoe UI, sans-serif" font-size="24" font-weight="900">
       DEV
     </text>
   </svg>
-</p>
+</p> -->
 
 <!-- custom gardient -->
 <!-- <p align="center">
@@ -146,7 +136,7 @@
 </div> -->
 
 <!-- music -->
-<!-- <table border="0" align="right">
+<table border="0" align="right">
   <tr>
     <td valign="bottom">
       <strong color="#17bc72">Now Listening...</strong>
@@ -157,4 +147,4 @@
     </a>
     </td>
   </tr>
-</table> -->
+</table>
