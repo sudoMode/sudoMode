@@ -1,5 +1,5 @@
 <!-- header -->
-<div
+<!-- <div
   style="
     width: 100%;
     height 150px;
@@ -14,7 +14,7 @@
     style="width: 400px; height: 300px; margin: -75px 0 0 -100px;"
 />
 
-</div>
+</div> -->
 
 <!-- content -->
 <!-- <div align="left" width="100%;">
@@ -72,10 +72,10 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=d9115e&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&border_radius=1000">
   </a>
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=d9115e&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
   </a>
-</p> -->
+</p>
