@@ -144,7 +144,7 @@
 
 <!-- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening on Spotify" width="350" align="right"/> -->
 
-<p align="right">Now Listening...</p>
+<p align="right"><img src="https://i.pinimg.com/736x/8c/a5/95/8ca59594a7e00fa8a08604f30249d312.jpg" width="50" height="50" alt="Spotify"> Now Listening...</p>
 <p align="right" color="#c43616">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening..." width="222" />
