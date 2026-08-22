@@ -153,3 +153,15 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening..." width="300" />
   </a>
 </div>
+
+<div align="right">
+  <p style="margin: 0; display: inline-flex; flex-direction: column; align-items: flex-end; gap: 8px;">
+    <span style="display: inline-flex; align-items: center; gap: 6px; font-weight: bold; color: #ffffff;">
+      <img src="./assets/spotify-icon-1.jpeg" width="16" height="16" />
+      Now Listening...
+    </span>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank" style="display: block;">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening..." width="300" />
+    </a>
+  </p>
+</div>
