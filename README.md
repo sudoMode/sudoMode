@@ -145,7 +145,11 @@
 <!-- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening on Spotify" width="350" align="right"/> -->
 
 <div align="right" color="#c43616">
+  <p>
+    <img src="./assets/spotify-icon-1.jpeg" width="32" height="32"/>
+    Now Listening...
+  </p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening..." width="600" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening..." width="300" />
   </a>
 </div>
