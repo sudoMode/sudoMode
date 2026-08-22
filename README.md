@@ -78,81 +78,13 @@
   </svg>
 </p> -->
 
-<!-- <p align="center">
-  <svg width="150" height="150" xmlns="http://w3.org">
-    <defs>
-      <linearGradient id="circleBg" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#111116" />
-        <stop offset="100%" stop-color="#222230" />
-      </linearGradient>
-    </defs>
-    <circle cx="75" cy="75" r="70" fill="url(#circleBg)" />
-    <text x="50%" y="53%" dominant-baseline="middle" text-anchor="middle" fill="#ff007f" font-family="Segoe UI, sans-serif" font-size="22" font-weight="bold">
-      HELLO
-    </text>
-  </svg>
-</p> -->
-
-<!-- <p align="center">
-  <svg width="150" height="150" xmlns="http://w3.org">
-    <defs>
-      <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#c28530" />
-        <stop offset="100%" stop-color="#0072ff" />
-      </linearGradient>
-    </defs>
-    <circle cx="75" cy="75" r="70" fill="#1a1a24" />
-    <text x="50%" y="53%" dominant-baseline="middle" text-anchor="middle" fill="url(#textGradient)" font-family="Segoe UI, sans-serif" font-size="24" font-weight="900">
-      DEV
-    </text>
-  </svg>
-</p> -->
-
-<!-- custom gardient -->
-<p align="center">
-  <svg width="600" height="150" xmlns="http://w3.org">
-    <defs>
-      <linearGradient id="myCustomGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#ff007f" />
-        <stop offset="100%" stop-color="#7f00ff" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="100%" rx="15" fill="url(#myCustomGradient)" />
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="sans-serif" font-size="24">
-      Gradient Background Text
-    </text>
-  </svg>
-</p>
-
-<!-- text overlay -->
-<div align="center">
-  <svg width="600" height="150" xmlns="http://w3.org">
-    <rect width="100%" height="100%" rx="15" fill="#f77321" />
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="24" font-weight="bold">
-      YOUR OVERLAY TEXT HERE
-    </text>
-
-  </svg>
-</div>
-
-<!-- music -->
-<!-- <p align="right">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank" align="right">
-    Now Listening...
-  </a>
-</p> -->
-
-<!-- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening on Spotify" width="350" align="right"/> -->
-
-<p>
-  <h4>
-    <img src="./assets/spotify-icon-1.jpeg" width="32" height="32" />
-    Now Listening...
-  </h4>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening..." width="33%" />
-  </a>
-</p>
+<h4>
+  <img src="./assets/spotify-icon-1.jpeg" width="32" height="32" />
+  Now Listening...
+</h4>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening..." width="33%" />
+</a>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=685e68&bar_color_cover=true" width="200px">
