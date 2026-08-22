@@ -125,7 +125,7 @@
 </p> -->
 
 <!-- text overlay -->
-<!-- <div align="center">
+<div align="center">
   <svg width="600" height="150" xmlns="http://w3.org">
     <rect width="100%" height="100%" rx="15" fill="#f77321" />
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="24" font-weight="bold">
@@ -133,7 +133,7 @@
     </text>
 
   </svg>
-</div> -->
+</div>
 
 <!-- music -->
 <!-- <p align="right">
@@ -154,8 +154,6 @@
   </a>
 </p>
 
-<p align="left" width="100px">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=685e68&bar_color_cover=true" width="200px">
-  </a>
-</p>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=685e68&bar_color_cover=true" width="200px">
+</a>
