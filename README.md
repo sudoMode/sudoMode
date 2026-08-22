@@ -145,10 +145,10 @@
 <!-- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening on Spotify" width="350" align="right"/> -->
 
 <div>
-  <p>
+  <h3>
     <img src="./assets/spotify-icon-1.jpeg" width="32" height="32"/>
     Now Listening...
-  </p>
+  </h3>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Now Listening..." width="33%" />
   </a>
