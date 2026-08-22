@@ -154,9 +154,8 @@
   </a>
 </p>
 
-<p>
-<span>
-<p>Test</p>
-<p>Best</p>
-</span>
+<p align="left" width="100px">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=685e68&bar_color_cover=true" width="200px">
+  </a>
 </p>
