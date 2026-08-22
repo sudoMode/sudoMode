@@ -109,7 +109,7 @@
 </p> -->
 
 <!-- custom gardient -->
-<!-- <p align="center">
+<p align="center">
   <svg width="600" height="150" xmlns="http://w3.org">
     <defs>
       <linearGradient id="myCustomGradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -122,7 +122,7 @@
       Gradient Background Text
     </text>
   </svg>
-</p> -->
+</p>
 
 <!-- text overlay -->
 <div align="center">
