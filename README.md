@@ -108,18 +108,18 @@ bring about a quality of life change in the society.
 ---
 
 <!-- footer -->
-<blockquote align="right">
-  <b>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</b>
-</blockquote>
-<img align="left" src="./assets/spotify-icon-1.jpeg" width="20" height="20" style="margin-right: 0px;" />
+
+<img align="left" src="./assets/footer.png" width="65%" style="margin-right: 0px;" />
+
+> If there's a future... it is now.
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="88%%">
+      <img src="./assets/footer.png" />
       <b><i>If there's a future... it is now.</i></b>
     </td>
     <td>
-      <img src="./assets/footer.png" />
     </td>
   </tr>
 </table>
