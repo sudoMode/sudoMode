@@ -103,6 +103,11 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+      Credit: XYZ
+      </td>
+    </tr>
   </table>
 <br>
 
