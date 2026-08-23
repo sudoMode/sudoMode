@@ -129,6 +129,8 @@ They not only bring inspiration, but they also show us the way sometimes.
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/VSCode + Vim-Code Editor-black?style=for-the-badge&logo=vim&logoColor=121212" style="margin-right: 10px;">
