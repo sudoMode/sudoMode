@@ -1,6 +1,6 @@
 <!-- header -->
 <div style="width:100%;">
-  <img src="./assets/cover-1.jpeg"
+  <img src="./assets/cover-2.jpeg"
        alt="20260813-184629"
        style="width:100%; height:auto; display:cover;">
 </div>
