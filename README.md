@@ -61,11 +61,6 @@ bring about a quality of life change in the society.
 
 <!-- --- -->
 
-<br>
-<br>
-<br>
-<br>
-<br>
 <table style="margin: 20 20 20 20;">
   <tr>
     <td width="40%" valign="top">
