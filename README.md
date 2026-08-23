@@ -105,7 +105,9 @@
     </tr>
     <tr>
       <td>
-      Credit: XYZ
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Credit-Spotify--Github--Profile-black?style=for-the-badge">
+        </a>
       </td>
     </tr>
   </table>
