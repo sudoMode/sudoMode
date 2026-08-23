@@ -148,5 +148,5 @@ They not only bring inspiration, but they also show us the way sometimes.
 <!-- footer -->
 <p align="center" width="100%">
   <b><i>"If there's a future... it is now."</b></i>&nbsp&nbsp&nbsp
-  <img src="./assets/footer-1.jpeg" width="70%">
+  <img src="./assets/god-3.jpeg" width="70%">
 </p>
