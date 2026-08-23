@@ -12,7 +12,7 @@
 </a>
 
 <blockquote>
-  <em><b>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</b></em>
+  <b>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</b>
 </blockquote>
 
 ---
@@ -21,8 +21,27 @@
 <br>
 <img src="./assets/god-1.jpeg" width="40%" align="right" />
 <br>
+<p>
+<em><b>Mandeep</b></em> is a self-taught programmer and a natural problem solver.
+He combines his love for art and technology to build elegant systems
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<div align="left" width="100%;">
+<!-- <div align="left" width="100%;">
   <table width="100%">
     <tr>
       <td width="55%" valign="middle" align="left">
@@ -34,7 +53,7 @@
     </tr>
   </table>
 </div>
-<br>
+<br> -->
 
 ---
 
