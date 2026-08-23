@@ -66,7 +66,7 @@ bring about a quality of life change in the society.
     </td>
     <td width="60%" valign="top">
       <h2><i>🏗️ Currently building: <a href="https://www.tradingview.com/script/lrDsHLST-Sniffer/"><ins><i>SNIFFER</i></ins></a></i></h2>
-      <p>Inspired by my love for dogs and the urge to find order within chaos, <ins><i>Sniffer</i></ins> strives to be one a kind Pattern Intelligence System for stock market players.</p>
+      <p>Inspired by my love for dogs and the urge to find order within chaos, <i>Sniffer</i> strives to be one a kind Pattern Intelligence System for stock market players.</p>
       <br>
       <p>Available on TradingView platform as an open-source research tool, Sniffer PRO is being actively developed to offer a richer and a more holistic toolkit for price-structure analysis and systematic decision making.</p>
     </td>
