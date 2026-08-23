@@ -1,28 +1,16 @@
 <!-- header -->
-<div style="width:100%;">
-  <img src="./assets/cover-2.jpeg"
-       alt="20260813-184629"
-       style="width:100%; height:auto; display:cover;">
-</div>
-<br>
 
-<h1 style="color:red;">
-  Man eats man!
-</h1>
-
-<br>
-
-<!-- <div style="width: 200px; height: 150px; overflow: hidden;">
-  <img
-    src="./assets/pacman-glitchy.jpeg"
-    style="width: 400px; height: 300px; margin: -75px 0 0 -100px;"
-/>
-
-</div> -->
+<img src="./assets/cover-2.jpeg" alt="cover">
 
 ---
 
+<h5>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</h5>
+
 <!-- content -->
+<br>
+<img src="./assets/god-1.jpeg" width="40%" align="right" />
+<br>
+
 <div align="left" width="100%;">
   <table width="100%">
     <tr>
@@ -35,7 +23,7 @@
     </tr>
   </table>
 </div>
-<br />
+<br>
 
 ---
 
