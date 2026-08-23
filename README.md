@@ -12,7 +12,7 @@
 </a>
 
 <blockquote>
-  <b>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</b>
+  <em><b>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</b></em>
 </blockquote>
 
 ---
@@ -21,6 +21,9 @@
 <br>
 <img src="./assets/god-1.jpeg" width="40%" align="right" />
 <br>
+<blockquote>
+If there's a future, it is now.
+</blockquote>
 
 <div align="left" width="100%;">
   <table width="100%">
