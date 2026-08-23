@@ -13,7 +13,6 @@
 > **Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.**
 
     </td>
-
     <td align="right">
       Test
     </td>
