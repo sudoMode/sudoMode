@@ -1,7 +1,16 @@
 <!-- header -->
-<div>
-  Man eats man!
+<div style="width:100%;">
+  <img src="./assets/cover-1.jpeg"
+       alt="20260813-184629"
+       style="width:100%; height:auto; display:cover;">
 </div>
+<br>
+
+<h1 style="color:red;">
+  Man eats man!
+</h1>
+
+<br>
 
 <!-- <div style="width: 200px; height: 150px; overflow: hidden;">
   <img
@@ -27,19 +36,6 @@
   </table>
 </div>
 <br />
-
----
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./assets/alien-2.jpeg" alt="Centered Image" />
-    </td>
-    <td align="center">
-      <img src="./assets/alien-2.jpeg" alt="Centered Image" width="150" />
-    </td>
-  </tr>
-</table>
 
 ---
 
