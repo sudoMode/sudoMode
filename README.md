@@ -1,5 +1,5 @@
 <!-- header -->
-<img src="./assets/cover-2.jpeg" alt="cover" width="100%">
+<img src="./assets/cover-1.jpeg" alt="cover" width="100%">
 
 <a href="https://open.spotify.com/user/31fhficro2et55listhzaioytqdq?si=63ce45d7428848e8" target="_blank">
   <img align="right" src="./assets/spotify-icon-1.jpeg" width="20" height="20" style="margin-right: 0px;" />
@@ -90,36 +90,11 @@ bring about a quality of life change in the society.
   </a>
 </p>
 
-<!-- > [!NOTE]
-> **Blue Background:** Use this for helpful tips or general information.
-
-> [!TIP]
-> **Green Background:** Perfect for showing things you have successfully built.
-
-> [!IMPORTANT]
-> **Purple Background:** Great for drawing attention to your key pinned projects.
-
-> [!WARNING]
-> **Yellow Background:** Use this to show things you are currently fixing or learning.
-
-> [!CAUTION]
-> **Red Background:** Good for fun "do not click" links or strong warnings. -->
-
 ---
 
 <!-- footer -->
 
 <img align="left" src="./assets/footer.png" width="65%" style="margin-right: 0px;" />
+<p align="right"><blockquote align="left" valign="center"><h3><i>If there's a future... it is now.</i></h3></blockquote></p>
 
-> If there's a future... it is now.
-
-<table>
-  <tr>
-    <td width="88%%">
-      <img src="./assets/footer.png" />
-      <b><i>If there's a future... it is now.</i></b>
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>
+<img src="./assets/cover-1.jpeg" width="100%" height="5px" />
