@@ -74,7 +74,7 @@ bring about a quality of life change in the society.
       <p>Available on TradingView platform as an open-source research tool, Sniffer PRO is being actively developed to offer a rich and a holistic toolkit for price-structure analysis and systematic decision making.</p>
       <br>
       <img alt="Static Badge" src="https://img.shields.io/badge/PineScript-black?style=for-the-badge" style="margin-right: 10px;">
-      <img alt="Static Badge" src="https://img.shields.io/badge/TimeSeries Analysis-black?style=for-the-badge" style="margin-right: 10px;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/TimeSeries Analysis-black?style=for-the-badge" style="margin-right: 100px;">
       <img alt="Static Badge" src="https://img.shields.io/badge/Vector Search-black?style=for-the-badge" style="margin-right: 10px;">
     </td>
   </tr>
