@@ -12,9 +12,7 @@
 </a>
 
 <blockquote>
-  <h3>
-   Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.
-  </h3>
+  <b>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</b>
 </blockquote>
 
 ---
