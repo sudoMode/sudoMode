@@ -31,7 +31,7 @@
 <img src="./assets/god-1.jpeg" width="400px" align="right" style="margin-left: 24px;" />
 <br>
 <p>
-<h3>Hello, World! 👾</h3>
+<h2>Hello, World! 👾</h2>
 <br>
 Meet <b><i>Mandeep</i></b>.
 <br>
@@ -50,9 +50,15 @@ bring about a quality of life change in the society.
 <br>
 <br>
 <br>
+<br>
 </div>
 
----
+<h1></h1>
+<h3>Currently building...</h3>
+
+<h1></h1>
+<h1></h1>
+<h1></h1>
 
 ---
 
