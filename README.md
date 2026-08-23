@@ -17,11 +17,11 @@
 <div align="left" width="100%;">
   <table width="100%">
     <tr>
-      <td width="30%" valign="middle" align="left">
+      <td width="25%" valign="middle" align="left">
         <i style="color: #666">If there's a future, it is now.</i>
       </td>
       <td width="75%">
-        <img src="./assets/god-1.jpeg" width="70%" />
+        <img src="./assets/god-1.jpeg" width="100%" />
       </td>
     </tr>
   </table>
