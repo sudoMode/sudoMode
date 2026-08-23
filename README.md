@@ -106,7 +106,7 @@
     <tr>
       <td>
         <a href="https://github.com/kittinan/spotify-github-profile">
-          <img alt="Static Badge" src="https://img.shields.io/badge/Credit-Spotify--Github--Profile-black?style=for-the-badge">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Credit-Spotify--Github--Profile-1c8203?style=social&color=black">
         </a>
       </td>
     </tr>
