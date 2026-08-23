@@ -1,10 +1,9 @@
 <!-- header -->
 
 <img src="./assets/cover-2.jpeg" alt="cover">
+<h5>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</h5>
 
 ---
-
-<h5>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</h5>
 
 <!-- content -->
 <br>
