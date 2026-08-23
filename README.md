@@ -24,6 +24,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-maestro-black?style=for-the-badge&logo=fastapi&logoColor=purple" style="margin-right: 10px;">
 </div>
 
+<h1></h1>
+
 <div>
 <img src="./assets/god-1.jpeg" width="400px" align="right" style="margin-left: 24px;" />
 <br>
