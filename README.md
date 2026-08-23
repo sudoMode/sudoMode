@@ -1,10 +1,5 @@
 <!-- header -->
-
 <img src="./assets/cover-2.jpeg" alt="cover">
-
-> **Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.**
-
----
 
 <a href="https://open.spotify.com/user/31fhficro2et55listhzaioytqdq?si=63ce45d7428848e8">
   <img align="right" src="./assets/spotify-icon-1.jpeg" width="16" height="16" style="margin-right: 0px;" />
