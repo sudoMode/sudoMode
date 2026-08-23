@@ -15,25 +15,26 @@
   <b>Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.</b>
 </blockquote>
 
----
+<h1></h1>
 
 <!-- content -->
 <br>
-<img src="./assets/god-1.jpeg" width="40%" align="right" />
+<img src="./assets/god-1.jpeg" width="40%" align="right" style="margin-left: 24px;" />
 <br>
 <p>
-<em><b>Mandeep</b></em> is a self-taught programmer and a natural problem solver.
-He combines his love for art and technology to build elegant systems
+<b><i>Mandeep</i></b> is a self-taught programmer and a born problem solver.
+He combines his love for art and technology to build systems that thrive on
+elegant architecture and lead to an effortless user-experience.
+<br>
+<br>
+Specialises in design and development of real-time agentic AI systems,
+high-capacity data processing systems, and general productivity tools.
+In the pursuit of excellence in life, he aims to deliver value through creations
+that bring about a quality of life change in the society, or just ideas that disrupt
+norms and set new standards for the future.
+
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
