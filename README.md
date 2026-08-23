@@ -4,10 +4,10 @@
 <a href="https://open.spotify.com/user/31fhficro2et55listhzaioytqdq?si=63ce45d7428848e8">
   <img align="right" src="./assets/spotify-icon-1.jpeg" width="20" height="20" style="margin-right: 0px;" />
 </a>
-<a href="https://github.com">
+<a href="https://www.instagram.com/deflectivereflections/?hl=en">
   <img align="right" src="./assets/instagram-icon-2.svg" width="20" height="20" style="margin-right: 12px;" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="https://www.linkedin.com/in/speakwithmandeep/">
   <img align="right" src="./assets/linkedin-icon-1.svg" width="20" height="20" style="margin-right: 12px;" />
 </a>
 
