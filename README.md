@@ -18,6 +18,13 @@
 ---
 
 <!-- content -->
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-magician-black?style=for-the-badge&logo=python&logoColor=yellow" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-pro-black?style=for-the-badge&logo=langchain&logoColor=blue" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-maestro-black?style=for-the-badge&logo=fastapi&logoColor=purple" style="margin-right: 10px;">
+</div>
+
+<div>
 <img src="./assets/god-1.jpeg" width="400px" align="right" style="margin-left: 24px;" />
 <br>
 <p>
@@ -40,14 +47,7 @@ bring about a quality of life change in the society.
 <br>
 <br>
 <br>
-
-<div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-magician-black?style=for-the-badge&logo=python&logoColor=yellow" style="margin-right: 10px;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-pro-black?style=for-the-badge&logo=langchain&logoColor=blue" style="margin-right: 10px;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-maestro-black?style=for-the-badge&logo=fastapi&logoColor=purple" style="margin-right: 10px;">
 </div>
-
-<br>
 
 ---
 
