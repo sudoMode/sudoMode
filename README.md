@@ -96,5 +96,4 @@ bring about a quality of life change in the society.
 
 <img align="left" src="./assets/footer.png" width="65%" style="margin-right: 0px;" />
 <p align="right"><blockquote align="left" valign="center"><h3><i>If there's a future... it is now.</i></h3></blockquote></p>
-
-<img src="./assets/cover-1.jpeg" width="100%" height="5px" />
+<img src="./assets/footer-1.jpeg" width="100%" height="5px" />
