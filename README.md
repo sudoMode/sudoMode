@@ -31,7 +31,9 @@
 <img src="./assets/god-1.jpeg" width="400px" align="right" style="margin-left: 24px;" />
 <br>
 <p>
-<h2>Hello, World! 👾</h2>
+
+<h3><ins>Hello, World!</ins> 👾</h3>
+
 <br>
 Meet <b><i>Mandeep</i></b>.
 <br>
@@ -53,12 +55,20 @@ bring about a quality of life change in the society.
 <br>
 </div>
 
-<h1></h1>
-<h3>Currently building...</h3>
+---
 
-<h1></h1>
-<h1></h1>
-<h1></h1>
+<h2><i>🏗️  Currently building...</i></h2>
+
+<p>
+  <img src="./assets/sniffer-icon-1.jpg" width="300px;">
+  Inspired by my love for dogs and the quest to find order within chaos, Sniffer strives
+  to be one a kind Pattern Intelligence System for stock market players.
+
+Available on TradingView platform as an open-source research tool, Sniffer PRO is
+being actively developed to offer a richer and a more holistic toolkit for
+price-structure analysis and systematic decision making.
+
+</p>
 
 ---
 
