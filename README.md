@@ -1,18 +1,20 @@
 <!-- header -->
-<div>
-  <img src="./assets/cover-2.jpeg" alt="cover">
+
+<img src="./assets/cover-2.jpeg" alt="cover">
+
+> **Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.**
+
+---
 
 <a href="mailto:your-email@example.com"><img align="right" src="./assets/_ (10).jpeg" height="25" /></a>
 <a href="https://linkedin.com"><img align="right" src="./assets/alien-2.jpeg" height="25" style="margin-right: 15px;" /></a>
 <a href="https://github.com"><img align="right" src="./assets/art-2.jpeg" height="25" style="margin-right: 15px;" /></a>
 
-  <blockquote>
-    <b>
-      Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech
-    </b>
-  </blockquote>
-
-</div>
+<blockquote>
+  <b>
+   Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech
+  </b>
+</blockquote>
 
 ---
 
