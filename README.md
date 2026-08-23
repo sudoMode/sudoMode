@@ -17,7 +17,7 @@
 
 ---
 
-<!-- content -->
+<!-- skills -->
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-magician-black?style=for-the-badge&logo=python&logoColor=blue" style="margin-right: 10px;">
   <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-pro-black?style=for-the-badge&logo=langchain&logoColor=white" style="margin-right: 10px;">
@@ -28,6 +28,7 @@
 
 ---
 
+<!-- intro -->
 <div>
 <img src="./assets/god-1.jpeg" width="400px" align="right" />
 <br>
@@ -59,8 +60,7 @@ bring about a quality of life change in the society.
 
 ---
 
-<!-- --- -->
-
+<!-- work -->
 <table>
   <tr>
     <td width="40%" valign="center" align="center">
@@ -90,7 +90,7 @@ bring about a quality of life change in the society.
   </a>
 </p>
 
-> [!NOTE]
+<!-- > [!NOTE]
 > **Blue Background:** Use this for helpful tips or general information.
 
 > [!TIP]
@@ -105,4 +105,16 @@ bring about a quality of life change in the society.
 > [!CAUTION]
 > **Red Background:** Good for fun "do not click" links or strong warnings. -->
 
+---
+
 <!-- footer -->
+<table>
+  <tr>
+    <td width="33%">
+      <b><i>If there's a future... it is now.</i></b>
+    </td>
+    <td>
+      <img src="./assets/footer.png" />
+    </td>
+  </tr>
+</table>
