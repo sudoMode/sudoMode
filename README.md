@@ -57,18 +57,19 @@ bring about a quality of life change in the society.
 
 ---
 
-<h2><i>🏗️  Currently building...</i></h2>
-
-<p>
-  <img src="./assets/sniffer-icon-1.jpg" width="300px;">
-  Inspired by my love for dogs and the quest to find order within chaos, Sniffer strives
-  to be one a kind Pattern Intelligence System for stock market players.
-
-Available on TradingView platform as an open-source research tool, Sniffer PRO is
-being actively developed to offer a richer and a more holistic toolkit for
-price-structure analysis and systematic decision making.
-
-</p>
+<table border="0">
+  <tr>
+    <td width="40%" valign="top">
+      <img src="./assets/sniffer-icon-1.jpg" width="100%" alt="Sniffer Logo">
+    </td>
+    <td width="60%" valign="top">
+      <h2><i>🏗️ Currently building: SNIFFER</i></h2>
+      <p>Inspired by my love for dogs and the urge to find order within chaos, Sniffer strives to be one a kind Pattern Intelligence System for stock market players.</p>
+      <br>
+      <p>Available on TradingView platform as an open-source research tool, Sniffer PRO is being actively developed to offer a richer and a more holistic toolkit for price-structure analysis and systematic decision making.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
