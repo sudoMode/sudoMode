@@ -107,18 +107,29 @@
 <br>
 
 <p>
+<h3>Of all the obsessions created by humans, music is my favourite.</h3>
+<br>
+It teaches us how we can enjoy something without fully understanding it...
+<br>
+How a thoughtful composition can moves us in profound ways, and how life is all about patterns and structures.
+<br>
+<br>
+<br>
+Great tools us help discover and master our own rhythm.
+<br>
+They not only bring inspiration, but they also show us the way.
+<br>
+<br>
+<br>
 
-<h3><ins>Music!</ins> 🎧</h3>
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VSCode + Vim-Code Editor-black?style=for-the-badge&logo=VSCode&logoColor=blue" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tmux + Alacritty-Terminal Emulator-black?style=for-the-badge&logo=Alacritty&logoColor=white" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Xmind-Ideation-black?style=for-the-badge&logo=xmind&logoColor=cyan" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-Project Management-black?style=for-the-badge&logo=notion&logoColor=yellow" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-Concept Design-black?style=for-the-badge&logo=figma&logoColor=skyblue" style="margin-right: 10px;">
+</div>
 
-<br>
-<br>
-Of all the obsessions created by humans, music is my favourite. I find it very revealing of who we are as individuals, and often find
-inspiration in tunes that I thought I had long forgotten.
-<br>
-<br>
-Just like a great song, a great software also has a layered composition, parts that pull you in, and parts that make you go wow!
-And a great tool is what helps you find your own rhythm to write that amazing piece of code... I keep it minimal.
-But you do you!
 </p>
 </div>
 
@@ -126,6 +137,6 @@ But you do you!
 
 <!-- footer -->
 <p align="center" width="100%">
-  <b><i>"If there's a future... it is now."</b></i>
+  <b><i>"If there's a future... it is now."</b></i>&nbsp&nbsp&nbsp
   <img src="./assets/footer-1.jpeg" width="70%">
 </p>
