@@ -23,7 +23,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-pro-black?style=for-the-badge&logo=langchain&logoColor=blue" style="margin-right: 10px;">
   <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-maestro-black?style=for-the-badge&logo=fastapi&logoColor=purple" style="margin-right: 10px;">
 </div>
-
 <h1></h1>
 
 <div>
