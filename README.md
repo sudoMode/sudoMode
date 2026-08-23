@@ -6,14 +6,14 @@
 
 ---
 
-<a href="mailto:your-email@example.com">
-  <img align="right" src="./assets/mail-icon-1.jpeg" height="25" style="margin-right: 16px;" />
+<a href="https://open.spotify.com/user/31fhficro2et55listhzaioytqdq?si=63ce45d7428848e8">
+  <img align="right" src="./assets/spotify-icon-1.jpeg" height="25" style="margin-right: 0px;" />
 </a>
 <a href="https://github.com">
   <img align="right" src="./assets/instagram-icon-1.jpeg" height="25" style="margin-right: 16px;" />
 </a>
-<a href="https://linkedin.com">
-  <img align="right" src="./assets/spotify-icon-1.jpeg" height="25" style="margin-right: 16px;" />
+<a href="mailto:your-email@example.com">
+  <img align="right" src="./assets/mail-icon-1.jpeg" height="25" style="margin-right: 16px;" />
 </a>
 
 <blockquote>
