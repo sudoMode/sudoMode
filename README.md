@@ -140,8 +140,6 @@ They not only bring inspiration, but they also show us the way sometimes.
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-Concept Design-black?style=for-the-badge&logo=figma&logoColor=121212" style="margin-right: 10px;">
 </div>
 
-<br>
-<br>
 </p>
 </div>
 
