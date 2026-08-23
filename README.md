@@ -30,25 +30,31 @@
 
 <!-- intro -->
 <div>
-<img src="./assets/god-1.jpeg" width="400px" align="right" />
-<br>
-<p>
+  <img src="./assets/god-1.jpeg" width="500px" align="right" />
 
-<h3><ins>Hello, World!</ins> 👾</h3>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
-<br>
-Meet <b><i>Mandeep</i></b>.
-<br>
-<br>
-A self-taught programmer and a born problem solver.
-He combines his love for art and technology to build systems that thrive on
-elegant architecture and lead to an effortless user-experience.
-<br>
-<br>
-Specialises in design and development of real-time agentic AI systems,
-and high-capacity data processing systems. He aims to deliver value through software that
-bring about a quality of life change in the society.
-</p>
+  <p valign="center">
+
+  <h3><ins>Hello, World!</ins> 👾</h3>
+
+  <br>
+  Meet <b><i>Mandeep</i></b>.
+  <br>
+  <br>
+  A self-taught programmer and a born problem solver.
+  He combines his love for art and technology to build systems that thrive on
+  elegant architecture and lead to an effortless user-experience.
+  <br>
+  <br>
+  Specialises in design and development of real-time agentic AI systems,
+  and high-capacity data processing systems. He aims to deliver value through software that
+  bring about a quality of life change in the society.
+  </p>
 </div>
 
 <br>
@@ -63,13 +69,16 @@ bring about a quality of life change in the society.
 <!-- work -->
 <table>
   <tr>
+    <h2><i>🏗️ Currently building</i></h2>
+  </tr>
+  <tr>
     <td width="40%" valign="center" align="center">
       <a href="https://www.tradingview.com/script/lrDsHLST-Sniffer/">
       <img src="./assets/sniffer-icon-1.jpg" width="90%" alt="Sniffer Logo">
       </a>
     </td>
     <td width="60%" valign="top">
-      <h2><i>🏗️ Currently building: <a href="https://www.tradingview.com/script/lrDsHLST-Sniffer/"><ins><i>SNIFFER</i></ins></a></i></h2>
+      <h2><i><a href="https://www.tradingview.com/script/lrDsHLST-Sniffer/"><ins><i>SNIFFER</i></ins></a></i></h2>
       <p>Inspired by my love for dogs and the urge to find order within chaos, <i>Sniffer</i> strives to be one a kind Pattern Intelligence System for stock market players.</p>
       <br>
       <p>Available on TradingView platform as an open-source research tool, Sniffer PRO is being actively developed to offer a rich and a holistic toolkit for price-structure analysis and systematic decision making.</p>
@@ -83,19 +92,40 @@ bring about a quality of life change in the society.
 
 ---
 
-<!-- interest -->
+<!-- tools -->
+<h2><i>🛠️ Favorite Tools</i></h2>
+<div>
+  <table align="right">
+    <tr>
+      <td>
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true" >
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" width="300px" align="center">
+        </a>
+      </td>
+    </tr>
+  </table>
+<br>
+
 <p>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" width="200px">
-  </a>
-</p>
+
+<h3><ins>Music!</ins> 🎧</h3>
 
 <br>
+<br>
+Of all the obsessions created by humans, music is my favourite. I find it very revealing of who we are as individuals, and often find
+inspiration in tunes that I thought I had long forgotten.
+<br>
+<br>
+Just like a great song, a great software also has a layered composition, parts that pull you in, and parts that make you go wow!
+And a great tool is what helps you find your own rhythm to write that amazing piece of code... I keep it minimal.
+But you do you!
+</p>
+</div>
 
 ---
 
 <!-- footer -->
 <p align="center" width="100%">
-  <b><i>"If there's a future... it is now."</b></i>&nbsp&nbsp&nbsp
-  <img src="./assets/footer-1.jpeg" width="70%" style="margin-right: 0px;">
+  <b><i>"If there's a future... it is now."</b></i>
+  <img src="./assets/footer-1.jpeg" width="70%">
 </p>
