@@ -65,7 +65,7 @@ bring about a quality of life change in the society.
   <tr>
     <td width="40%" valign="center" align="center">
       <a href="https://www.tradingview.com/script/lrDsHLST-Sniffer/">
-      <img src="./assets/sniffer-icon-1.jpg" width="80%" alt="Sniffer Logo">
+      <img src="./assets/sniffer-icon-1.jpg" width="90%" alt="Sniffer Logo">
       </a>
     </td>
     <td width="60%" valign="top">
