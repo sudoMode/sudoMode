@@ -6,38 +6,15 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="33%">
+<a href="mailto:your-email@example.com"><img align="right" src="./assets/_ (10).jpeg" height="25" /></a>
+<a href="https://linkedin.com"><img align="right" src="./assets/alien-2.jpeg" height="25" style="margin-right: 15px;" /></a>
+<a href="https://github.com"><img align="right" src="./assets/art-2.jpeg" height="25" style="margin-right: 15px;" /></a>
 
-> **Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.**
-
-    </td>
-    <td align="right">
-      Test
-    </td>
-
-  </tr>
-</table>
-
-<!-- content -->
-<br>
-<img src="./assets/god-1.jpeg" width="40%" align="right" />
-<br>
-
-<div align="left" width="100%;">
-  <table width="100%">
-    <tr>
-      <td width="55%" valign="middle" align="left">
-        <i style="color: #666">If there's a future, it is now.</i>
-      </td>
-      <td width="45%">
-        <img src="./assets/god-1.jpeg" />
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
+<blockquote>
+  <b>
+    Some piece of text that goes on the left side. You can type your bio, a favorite quote, or a quick introduction here. It will automatically take up most of the space.
+  </b>
+</blockquote>
 
 ---
 
