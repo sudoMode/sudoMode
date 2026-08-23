@@ -1,5 +1,5 @@
 <!-- header -->
-<img src="./assets/cover-2.jpeg" alt="cover">
+<img src="./assets/cover-2.jpeg" alt="cover" width="100%">
 
 <a href="https://open.spotify.com/user/31fhficro2et55listhzaioytqdq?si=63ce45d7428848e8" target="_blank">
   <img align="right" src="./assets/spotify-icon-1.jpeg" width="20" height="20" style="margin-right: 0px;" />
@@ -18,10 +18,12 @@
 ---
 
 <!-- content -->
-<div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-magician-black?style=for-the-badge&logo=python&logoColor=yellow" style="margin-right: 10px;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-pro-black?style=for-the-badge&logo=langchain&logoColor=blue" style="margin-right: 10px;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-maestro-black?style=for-the-badge&logo=fastapi&logoColor=purple" style="margin-right: 10px;">
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-magician-black?style=for-the-badge&logo=python&logoColor=blue" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LangChain-pro-black?style=for-the-badge&logo=langchain&logoColor=white" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-maestro-black?style=for-the-badge&logo=fastapi&logoColor=cyan" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-hobbyist-black?style=for-the-badge&logo=javascript&logoColor=yellow" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-learning-black?style=for-the-badge&logo=react&logoColor=skyblue" style="margin-right: 10px;">
 </div>
 <h1></h1>
 
