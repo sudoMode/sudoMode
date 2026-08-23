@@ -47,15 +47,11 @@ Specialises in design and development of real-time agentic AI systems,
 and high-capacity data processing systems. He aims to deliver value through software that
 bring about a quality of life change in the society.
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
 </div>
 
 <!-- --- -->
 
+<br>
 <table border="0">
   <tr>
     <td width="40%" valign="top">
