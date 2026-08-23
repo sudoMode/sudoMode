@@ -90,9 +90,12 @@ bring about a quality of life change in the society.
   </a>
 </p>
 
+<br>
+
 ---
 
 <!-- footer -->
-
-<img align="left" src="./assets/footer-1.jpeg" width="65%" style="margin-right: 0px;" />
-<p align="right"><blockquote align="left" valign="center"><i>If there's a future... it is now.</i></blockquote></p>
+<p align="center">
+  <b><i>"If there's a future... it is now."</b></i>
+  <img src="./assets/footer-1.jpeg" width="100%" style="margin-right: 0px;">
+</p>
