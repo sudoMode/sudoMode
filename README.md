@@ -53,6 +53,9 @@ bring about a quality of life change in the society.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 </div>
 
 ---
@@ -70,10 +73,9 @@ bring about a quality of life change in the society.
       <br>
       <p>Available on TradingView platform as an open-source research tool, Sniffer PRO is being actively developed to offer a rich and a holistic toolkit for price-structure analysis and systematic decision making.</p>
       <br>
-      <br>
       <img alt="Static Badge" src="https://img.shields.io/badge/PineScript-black?style=for-the-badge&logo=pinescript" style="margin-right: 10px;">
       <img alt="Static Badge" src="https://img.shields.io/badge/TimeSeries Analysis-black?style=for-the-badge&logo=delta" style="margin-right: 10px;">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Semantic Search-black?style=for-the-badge&logo=vector" style="margin-right: 10px;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Vector Modelling-black?style=for-the-badge&logo=similarity" style="margin-right: 10px;">
     </td>
   </tr>
 </table>
