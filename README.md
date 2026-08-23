@@ -7,8 +7,8 @@
 ---
 
 <a href="mailto:your-email@example.com"><img align="right" src="./assets/_ (10).jpeg" height="25" /></a>
+<a href="https://github.com"><img align="right" src="./assets/instagram-icon-1.jpeg" height="25" style="margin-right: 15px;" /></a>
 <a href="https://linkedin.com"><img align="right" src="./assets/spotify-icon-1.jpeg" height="25" style="margin-right: 8px; border-radius: 80p;x" /></a>
-<a href="https://github.com"><img align="right" src="./assets/art-2.jpeg" height="25" style="margin-right: 15px;" /></a>
 
 <blockquote>
   <b>
