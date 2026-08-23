@@ -96,6 +96,6 @@ bring about a quality of life change in the society.
 
 <!-- footer -->
 <p align="center" width="100%">
-  <b><i>"If there's a future... it is now."</b></i>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="./assets/footer-1.jpeg" width="60%" style="margin-right: 0px;">
+  <b><i>"If there's a future... it is now."</b></i>&nbsp&nbsp&nbsp
+  <img src="./assets/footer-1.jpeg" width="70%" style="margin-right: 0px;">
 </p>
