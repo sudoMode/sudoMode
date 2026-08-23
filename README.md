@@ -21,12 +21,25 @@
         <i style="color: #666">If there's a future, it is now.</i>
       </td>
       <td width="45%">
-        <img src="./assets/god-1.jpeg" width="80%" />
+        <img src="./assets/god-1.jpeg" />
       </td>
     </tr>
   </table>
 </div>
 <br />
+
+---
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/alien-2.jpeg" alt="Centered Image" />
+    </td>
+    <td align="center">
+      <img src="./assets/alien-2.jpeg" alt="Centered Image" width="150" />
+    </td>
+  </tr>
+</table>
 
 ---
 
