@@ -2,6 +2,7 @@
 
 <img src="./assets/cover-2.jpeg" alt="cover">
 
+> [!TIP]
 > **Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.**
 
 ---
