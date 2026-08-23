@@ -17,17 +17,24 @@
 <div align="left" width="100%;">
   <table width="100%">
     <tr>
-      <td width="25%" valign="middle" align="left">
+      <td width="50%" valign="middle" align="left">
         <i style="color: #666">If there's a future, it is now.</i>
       </td>
       <td width="75%">
-        <img src="./assets/god-1.jpeg" width="100%" />
+        <img src="./assets/god-1.jpeg" width="50%" />
       </td>
     </tr>
   </table>
 </div>
 <br />
 
+---
+
+<p>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fhficro2et55listhzaioytqdq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true">
+  </a>
+</p>
 <!-- footer -->
 <!-- <div>
   <img
