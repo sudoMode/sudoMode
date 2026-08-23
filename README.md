@@ -109,27 +109,30 @@
 <p>
 <h3>Of all the obsessions created by humans, music is my favourite.</h3>
 <br>
-It teaches us how we can enjoy something without fully understanding it...
+It teaches us how we can find joy in things that we don't even understand...
 <br>
-How a thoughtful composition can moves us in profound ways, and how life is all about patterns and structures.
+How a thoughtful composition can moves us in profound ways, and how life is more than just patterns and structures.
 <br>
 <br>
+Great tools have the same effect on us... they help us discover and master our own rhythm.
 <br>
-Great tools us help discover and master our own rhythm.
+They not only bring inspiration, but they also show us the way sometimes.
 <br>
-They not only bring inspiration, but they also show us the way.
+<br>
 <br>
 <br>
 <br>
 
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/VSCode + Vim-Code Editor-black?style=for-the-badge&logo=VSCode&logoColor=blue" style="margin-right: 10px;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Tmux + Alacritty-Terminal Emulator-black?style=for-the-badge&logo=Alacritty&logoColor=white" style="margin-right: 10px;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Xmind-Ideation-black?style=for-the-badge&logo=xmind&logoColor=cyan" style="margin-right: 10px;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-Project Management-black?style=for-the-badge&logo=notion&logoColor=yellow" style="margin-right: 10px;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-Concept Design-black?style=for-the-badge&logo=figma&logoColor=skyblue" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VSCode + Vim-Code Editor-black?style=for-the-badge&logo=vim&logoColor=121212" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tmux + Alacritty-Terminal Emulator-black?style=for-the-badge&logo=Alacritty&logoColor=121212" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Xmind-Ideation-black?style=for-the-badge&logo=xmind&logoColor=121212" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-Project Management-black?style=for-the-badge&logo=notion&logoColor=121212" style="margin-right: 10px;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-Concept Design-black?style=for-the-badge&logo=figma&logoColor=121212" style="margin-right: 10px;">
 </div>
 
+<br>
+<br>
 </p>
 </div>
 
