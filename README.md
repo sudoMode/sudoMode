@@ -68,7 +68,12 @@ bring about a quality of life change in the society.
       <h2><i>🏗️ Currently building: <a href="https://www.tradingview.com/script/lrDsHLST-Sniffer/"><ins><i>SNIFFER</i></ins></a></i></h2>
       <p>Inspired by my love for dogs and the urge to find order within chaos, <i>Sniffer</i> strives to be one a kind Pattern Intelligence System for stock market players.</p>
       <br>
-      <p>Available on TradingView platform as an open-source research tool, Sniffer PRO is being actively developed to offer a richer and a more holistic toolkit for price-structure analysis and systematic decision making.</p>
+      <p>Available on TradingView platform as an open-source research tool, Sniffer PRO is being actively developed to offer a rich and a holistic toolkit for price-structure analysis and systematic decision making.</p>
+      <br>
+      <br>
+      <img alt="Static Badge" src="https://img.shields.io/badge/PineScript-black?style=for-the-badge&logo=pinescript" style="margin-right: 10px;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/TimeSeries Analysis-black?style=for-the-badge&logo=delta" style="margin-right: 10px;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Semantic Search-black?style=for-the-badge&logo=vector" style="margin-right: 10px;">
     </td>
   </tr>
 </table>
