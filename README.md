@@ -2,13 +2,13 @@
 <img src="./assets/cover-2.jpeg" alt="cover">
 
 <a href="https://open.spotify.com/user/31fhficro2et55listhzaioytqdq?si=63ce45d7428848e8">
-  <img align="right" src="./assets/spotify-icon-1.jpeg" width="16" height="16" style="margin-right: 0px;" />
+  <img align="right" src="./assets/spotify-icon-1.jpeg" width="24" height="24" style="margin-right: 0px;" />
 </a>
 <a href="https://github.com">
-  <img align="right" src="./assets/instagram-icon-2.svg" width="16" height="16" style="margin-right: 12px;" />
+  <img align="right" src="./assets/instagram-icon-2.svg" width="24" height="24" style="margin-right: 12px;" />
 </a>
 <a href="mailto:your-email@example.com">
-  <img align="right" src="./assets/linkedin-icon-1.svg" width="16" height="16" style="margin-right: 12px;" />
+  <img align="right" src="./assets/linkedin-icon-1.svg" width="24" height="24" style="margin-right: 12px;" />
 </a>
 
 <blockquote>
