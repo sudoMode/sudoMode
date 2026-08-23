@@ -114,7 +114,7 @@
 <br>
 
 <p>
-<h3>Of all the obsessions created by humans, music is my favourite.</h3>
+<h3>Of all the obsessions created by humans, <i><ins>music is my favourite.</ins></i></h3>
 <br>
 It teaches us how we can find joy in things that we don't even understand...
 <br>
