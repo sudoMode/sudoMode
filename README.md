@@ -7,13 +7,16 @@
 ---
 
 <a href="https://github.com">
-  <img align="right" src="./assets/instagram-icon-1.jpeg" height="32" style="margin-right: 0;" />
+  <img align="right" src="./assets/instagram-icon-1.jpeg" width="24" height="24" style="margin-right: 0;" />
 </a>
 <a href="https://open.spotify.com/user/31fhficro2et55listhzaioytqdq?si=63ce45d7428848e8">
-  <img align="right" src="./assets/spotify-icon-1.jpeg" height="32" style="margin-right: 8px;" />
+  <img align="right" src="./assets/spotify-icon-1.jpeg" width="24" height="24" style="margin-right: 8px;" />
 </a>
 <a href="mailto:your-email@example.com">
-  <img align="right" src="./assets/mail-icon-1.jpeg" height="32" style="margin-right: 8px;" />
+  <img align="right" src="./assets/mail-icon-1.jpeg" width="24" height="24" style="margin-right: 8px;" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img align="right" src="./assets/linkedin-icon-1.svg" width="24" height="24" style="margin-right: 8px;" />
 </a>
 
 <blockquote>
