@@ -25,10 +25,11 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-hobbyist-black?style=for-the-badge&logo=javascript&logoColor=yellow" style="margin-right: 10px;">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-learning-black?style=for-the-badge&logo=react&logoColor=skyblue" style="margin-right: 10px;">
 </div>
-<h1></h1>
+
+---
 
 <div>
-<img src="./assets/god-1.jpeg" width="400px" align="right" style="margin-left: 24px;" />
+<img src="./assets/god-1.jpeg" width="400px" align="right" />
 <br>
 <p>
 
@@ -49,11 +50,23 @@ bring about a quality of life change in the society.
 </p>
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
 <!-- --- -->
 
 <br>
 <br>
-<table border="0">
+<br>
+<br>
+<br>
+<table style="margin: 20 20 20 20;">
   <tr>
     <td width="40%" valign="top">
       <a href="https://www.tradingview.com/script/lrDsHLST-Sniffer/">
