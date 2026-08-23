@@ -13,7 +13,7 @@
 
 <blockquote>
   <b>
-   Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech
+   Man loves ideas, that's why he created tech... but man eats man, and that's why he loves tech.
   </b>
 </blockquote>
 
