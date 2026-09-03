@@ -52,8 +52,7 @@
   <br>
   <br>
   Specialises in design and development of real-time agentic AI systems,
-  and high-capacity data processing systems. He aims to deliver value through software that
-  bring about a quality of life change in the society.
+  and high-capacity data processing systems.
   </p>
 </div>
 
