@@ -40,10 +40,10 @@
 
   <p valign="center">
 
-  <h3><ins>Hello, World!</ins> 👾</h3>
+  <h2><ins>Hello, World!</ins></h2>
 
   <br>
-  Meet <b><i>Mandeep</i></b>.
+  Meet <b><i>Him</i></b>.
   <br>
   <br>
   **A self-taught programmer and a curious problem solver.**
