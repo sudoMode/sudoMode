@@ -40,7 +40,7 @@
 
   <p valign="center">
 
-  <h2><ins>Hello, World!</ins></h2>
+  <h3><ins>Hello, World!</ins></h3>
 
   <br>
   Meet <b><i>Him</i></b>.
@@ -53,14 +53,14 @@
   </p>
 </div>
 
-<!-- <br>
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<br> -->
+<br>
+<br>
 
 ---
 
