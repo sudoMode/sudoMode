@@ -46,11 +46,10 @@
   Meet <b><i>Him</i></b>.
   <br>
   <br>
-  **A self-taught programmer and a curious problem solver.**
+  <b>A self-taught programmer and a curious problem solver.<b>
   <br>
   <br>
-  Specialises in design and development of real-time agentic AI systems,
-  and high-capacity data processing systems.
+  He builds stuff that works sometimes, sometimes it cool... and other times it's both.
   </p>
 </div>
 
