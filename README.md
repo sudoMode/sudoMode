@@ -46,9 +46,7 @@
   Meet <b><i>Mandeep</i></b>.
   <br>
   <br>
-  A self-taught programmer and a born problem solver.
-  He combines his love for art and technology to build systems that thrive on
-  elegant architecture and lead to an effortless user-experience.
+  **A self-taught programmer and a curious problem solver.**
   <br>
   <br>
   Specialises in design and development of real-time agentic AI systems,
