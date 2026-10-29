@@ -43,7 +43,7 @@
   <h3><ins>Hello, World!</ins></h3>
 
   <br>
-  Meet <b><i>Him</i></b>.
+  Meet <b><i>sudoMode</i></b>.
   <br>
   <br>
   <b>A self-taught programmer and a curious problem solver.<b>
